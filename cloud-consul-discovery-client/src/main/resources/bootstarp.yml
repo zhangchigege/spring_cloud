@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: pig-consul
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      config:
+        enabled: true
+        format: KEY_VALUE
+        watch:
+          enabled: true
+        prefix: pig-config

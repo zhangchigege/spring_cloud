@@ -1,0 +1,9 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: cloud-consul-discovery-server
+  cloud:
+    consul:
+      host: localhost
+      port: 8500

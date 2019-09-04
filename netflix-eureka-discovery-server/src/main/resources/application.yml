@@ -1,0 +1,13 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: netflix-eureka-discovery-server
+eureka:
+  instance:
+    hostname: 127.0.0.1
+  client:
+    #是否注册自身
+    register-with-eureka: false
+    #是否获取自身
+    fetch-registry: false

@@ -1,0 +1,10 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: alibaba-nacos-discovery-server
+    #配置nacos服务注册中心地址
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
