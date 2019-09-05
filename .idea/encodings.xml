@@ -6,7 +6,16 @@
     <file url="file://$PROJECT_DIR$/alibaba-nacos-discovery-client-common/alibaba-nacos-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alibaba-nacos-discovery-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-consul-discovery-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-client-fegin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-client-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-consumer-ribbon-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-cusomer-fegin-transfer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-hystrix-turbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflix-eureka-discovery-server-fegin-transfer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-client-git" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-server-git" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

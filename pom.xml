@@ -14,6 +14,15 @@
         <module>netflix-eureka-discovery-server</module>
         <module>Netflix-eureka-discovery-client-common</module>
         <module>cloud-consul-discovery-client</module>
+        <module>netflix-eureka-discovery-client-ribbon</module>
+        <module>netflix-eureka-discovery-client-fegin</module>
+        <module>netflix-eureka-discovery-server-fegin-transfer</module>
+        <module>netflix-eureka-discovery-cusomer-fegin-transfer</module>
+        <module>spring-cloud-config-server-git</module>
+        <module>spring-cloud-config-client-git</module>
+        <module>netflix-eureka-discovery-consumer-ribbon-hystrix</module>
+        <module>netflix-eureka-discovery-hystrix-dashboard</module>
+        <module>netflix-eureka-discovery-hystrix-turbine</module>
     </modules>
 
 

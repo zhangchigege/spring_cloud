@@ -11,7 +11,16 @@
         <module name="alibaba-nacos-discovery-server" />
         <module name="cloud-consul-discovery-client" />
         <module name="Netflix-eureka-discovery-client-common" />
+        <module name="netflix-eureka-discovery-client-fegin" />
+        <module name="netflix-eureka-discovery-client-ribbon" />
+        <module name="netflix-eureka-discovery-consumer-ribbon-hystrix" />
+        <module name="netflix-eureka-discovery-cusomer-fegin-transfer" />
+        <module name="netflix-eureka-discovery-hystrix-dashboard" />
+        <module name="netflix-eureka-discovery-hystrix-turbine" />
         <module name="netflix-eureka-discovery-server" />
+        <module name="netflix-eureka-discovery-server-fegin-transfer" />
+        <module name="spring-cloud-config-client-git" />
+        <module name="spring-cloud-config-server-git" />
       </profile>
     </annotationProcessing>
   </component>
